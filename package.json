@@ -1,0 +1,25 @@
+{
+  "name": "oem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lo0b0o/global-management.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lo0b0o/global-management/issues"
+  },
+  "homepage": "https://github.com/lo0b0o/global-management#readme"
+}
